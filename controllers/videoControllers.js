@@ -32,7 +32,6 @@ const addVideo = async (req, res) => {
     image: image,
     views: 0,
     likes: 0,
-    duration: 0,
     video: "",
     timestamp: Date.now(),
     comments: [],
