@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": "Fish20 Non-technical Overview",
+    "channel": "Juan Idrovo",
+    "image": "https://cdn.loom.com/sessions/thumbnails/ce877115099841a58c178f1195cb57c9-6aaf9f15520db534-full-play.gif",
+    "description": "Hi there! I'm Juan, a web developer and lawyer, presenting my first online game and full-stack software engineering project. The video showcases my game, named Fish20, with lots of interactive features. Viewers can try the game, leave feedback, and even save scores. I explain the game's modes, features, and the show user navigation. Your feedback is highly appreciated! GitHub: https://github.com/ichbinderbar/fish-react Go play: https://main.d3tq94steyolaz.amplifyapp.com/",
+    "views": "3,092,284",
+    "likes": "75,985",
+    "duration": "6:00",
+    "video": "https://www.youtube.com/embed/j9yT9wbIYI0?si=l9VNmE7aHt1iCREU",
+    "timestamp": 1701497862000,
+    "comments": []
+  },
+  {
+    "id": "2",
+    "title": "Fish20 Game Tutorial",
+    "channel": "Juan Idrovo",
+    "image": "https://cdn.loom.com/sessions/thumbnails/98b4029303254247a63ee29f9f62b69b-38050a4decdf59d4-full-play.gif",
+    "description": "In this video, I, Juan, the creator of Fish20, explain how to play the game. The goal is to earn 20 coins before your opponent by strategically collecting cards. I demonstrate how to select cards from the table and use a hook card to capture them. Viewers are instructed on card types, capturing rules, and earning points. GitHub: https://github.com/ichbinderbar/fish-react Go play: https://main.d3tq94steyolaz.amplifyapp.com/",
+    "views": "1,092,665",
+    "likes": "74,085",
+    "duration": "8:00",
+    "video": "https://www.youtube.com/embed/tcyB9IBt-NA?si=rTWsOYwwWApJilD",
+    "timestamp": 1701497862000,
+    "comments": []
+  },
+  {
+    "id": "3",
+    "title": "Face Controlled Music Player",
+    "channel": "Juan Idrovo",
+    "image": "https://cdn.loom.com/sessions/thumbnails/4ee9beacf2d34ce7a20cb449f4773227-c0e9c47ec5de9d28-full-play.gif",
+    "description": "In this video, I showcase my music player app. This app can detect seven different moods and plays a song corresponding to each mood based on facial expressions. I demonstrate how the app works without playing the songs due to copyright concerns. Stay tuned for a separate video featuring a special guest interacting with the app. GitHub: https://github.com/ichbinderbar/play-face-hackathon Go play: https://facecontrolmusicplayer.netlify.app/",
+    "views": "92,665",
+    "likes": "3,025",
+    "duration": "1:00",
+    "video": "https://www.youtube.com/embed/M09JMiW7OhY?si=kKYum0mTJ9aNjhjq",
+    "timestamp": 1701497862000,
+    "comments": []
+  }
+]
